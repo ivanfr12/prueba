@@ -4,3 +4,10 @@ git init (iniciar git)
 git status (para ver los estados de los archivos si estan pisados o no)
 git add nombre_archivo (sube un solo archivo) - git add . (Sube todo los archivos)
 git commit (i -> Insertar comentarios, ESC, :wq grabar y salir)
+
+OTRA OPCION DE COMMIT
+git commit -m "Descripcion de cambios"
+git log (Historial de commit o cambios) --online (abreviado) --graph (grafico)
+
+git remote add origin <url del repo> (origin es el alias)
+git push -u origin master 
