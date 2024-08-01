@@ -1,0 +1,6 @@
+git config --global user.name "nombre_usuario"
+git config --global user.email "correo"
+git init (iniciar git)
+git status (para ver los estados de los archivos si estan pisados o no)
+git add nombre_archivo (sube un solo archivo) - git add . (Sube todo los archivos)
+git commit (i -> Insertar comentarios, ESC, :wq grabar y salir)
